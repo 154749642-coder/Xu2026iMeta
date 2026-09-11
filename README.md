@@ -3,5 +3,4 @@ This repository contains the data tables and R  scripts used to generate the mai
 
 /data/ # Data tables used for statistical analyses and figure generation
 /fig1-5/ # Data used for plotting the main figures
-/figX.Rmd # Reproducible R Markdown script for statistical analyses and plotting each panel
 /X.py # Python scripts used for data processing and analyses
